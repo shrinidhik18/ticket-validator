@@ -1,0 +1,7 @@
+﻿ticket_id,customer_name,service_type,status,created_date,description
+T001,Aarav,Repair,open,2026-11-20,AC is not cooling
+T002,Diya,Installation,in_progress,2026-11-21,New washing machine installation
+T003,Rahul,Maintenance,closed,2026-11-22,Regular maintenance completed
+T004,Meera,Repair,invalid_status,2026-11-23,Refrigerator making noise
+T005,Arjun,Repair,open,invalid_date,Television screen issue
+T006,,Installation,open,2026-11-24,Install a new appliance
